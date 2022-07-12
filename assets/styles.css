@@ -38,6 +38,10 @@ p {
 }
 
 /** Component **/
+.hide {
+  display: none;
+}
+
 .card {
   background-color: white;
   border-radius: 0.8rem;
