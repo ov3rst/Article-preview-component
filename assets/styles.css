@@ -32,7 +32,7 @@ body {
 }
 
 body,
-h1,
+h2,
 p {
   margin: 0;
 }
@@ -59,7 +59,7 @@ p {
   padding: 2.5rem 2rem 1rem;
 }
 
-.details > h1 {
+.details > h2 {
   color: var(--Very-Dark-Grayish-Blue);
   font-size: 1.15rem;
 }
